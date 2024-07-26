@@ -102,11 +102,6 @@ if __name__ == "__main__":
             speak("My Dad IS")
             speak("Sholil Kumar Ghosh")
             speak("he is very Nice")
-            speak("And Kind Hearted Person")
-            speak("He Always Wants Love")
-            speak("But My Mom" )
-            speak("Never GIve Him")
-            speak("Love")
         elif "mom" in query:
             speak("My father Will Kill me")
             speak("I can't tell")
@@ -129,7 +124,6 @@ if __name__ == "__main__":
             speak("Rudra")
             speak("how")
             speak("are you")
-            speak("laora")
         elif "birthday" in query:
             os.startfile("D:\\Download\\Tamal.jpg")
             time.sleep(1)
@@ -140,7 +134,6 @@ if __name__ == "__main__":
             speak("This Is My Motu")
             speak("Happpy Birthday  My Motu")
             # speak("My Motu")
-            speak("love You")
             speak("Many Many Happy Returns of the day")
             
             # speak("of the day")
